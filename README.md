@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=balagitid&show_icons=true&theme=gotham" alt="balagitid" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bakuppus&show_icons=true&theme=gotham" alt="bakuppus" />
 
   <h1 align="center">Hi 👋, I'm BalaSubramani K</h1>
 <h3 align="center">Senior DevOps Engineer / AWS, GCP, AZURE Multi-Cloud Solution Architect / IT Infrastructure Specialist, Consultant that focuses on Containerization, Cloud native, mobile applications and Serverless</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=balagitid&label=Profile%20views&color=0e75b6&style=flat" alt="balagitid" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bakuppus&label=Profile%20views&color=0e75b6&style=flat" alt="bakuppus" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balagitid" alt="balagitid" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bakuppus" alt="bakuppus" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/bala_kubelancer" target="blank"><img src="https://img.shields.io/twitter/follow/bala_kubelancer?logo=twitter&style=for-the-badge" alt="bala_kubelancer" /></a> </p>
 
